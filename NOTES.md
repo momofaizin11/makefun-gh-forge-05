@@ -1,0 +1,1 @@
+Entry github-core-clone-01: REST v3, GraphQL v4, MCP, Git smart HTTP. Stdlib only, deterministic.
